@@ -15,9 +15,6 @@
 
 ```bash
 
-# Entre na pasta
-$ cd pokefacil
-
 # Instale as dependencias
 $ yarn
 
